@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "phone": "8828319371",
+      "verified": true,
+      "otpId": "f8fe1441-aecd-4978-9ba9-598a21a9459c",
+      "otp": null
+    }
+  ],
+  "students": [
+    {
+      "id": "1791432017043",
+      "name": "Soham",
+      "rollNo": "01"
+    }
+  ],
+  "attendance": []
+}
